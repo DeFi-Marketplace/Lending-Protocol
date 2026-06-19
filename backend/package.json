@@ -1,0 +1,14 @@
+{
+  "name": "stellar-p2p-lending-backend",
+  "version": "1.0.0",
+  "description": "Off-chain API for credit scoring and KYC",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
